@@ -1,0 +1,16 @@
+[History]
+B0=Project1/frmFont/cmdNext_Click
+B1=Project1/frmFont/cmdBack_Click
+B2=Project1/mdlFont/GetCharsetFromLocaleID
+B3=Project1/mdlFont/EnumFontFamProc
+B4=Project1/mdlFont
+B5=Project1/frmFont/Init
+B6=Project1/frmFont/cmdExit_Click
+B7=Project1/mdlDeclare/TranslateCharsetInfo
+B8=Project1/mdlDeclare/GetLocaleInfoA
+B9=Project1/mdlDeclare/EnumFontFamiliesEx
+B10=Project1/mdlFont/StringNoNull
+B11=Project1/mdlGeneral/InitListView
+B12=Project1/mdlGeneral/FillListView
+B13=Project1/mdlGeneral/FillCol
+B14=Project1/mdlFont/GetLocaleInfoC
